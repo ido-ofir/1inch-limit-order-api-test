@@ -1,0 +1,17 @@
+{
+    "nodeURL": "https://speedy-nodes-nyc.moralis.io/6fdd22a014f91ac2b09c3ce9/bsc/mainnet",
+    "walletAddress": "0xA7252f16B6189D25DD573050bDf2Cd7A47c93B15",
+    "privateKey": "5f1d1ff96178665804e7b32d2e6be3e32244d47a62b17733e9664b212da6115b",
+    "chainId": 56,
+    "contractAddress": "0xe3456f4Ee65E745A44EC3bcB83D0f2529D1b84Eb",
+    "makerAsset": {
+        "name": "WBNB",
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "amount": "1000000000000"
+    },
+    "takerAsset": {
+        "name": "USDT",
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "amount": "550000000000000"
+    }
+}
