@@ -3,7 +3,7 @@
     "walletAddress": "0xA7252f16B6189D25DD573050bDf2Cd7A47c93B15",
     "privateKey": "5f1d1ff96178665804e7b32d2e6be3e32244d47a62b17733e9664b212da6115b",
     "chainId": 56,
-    "contractAddress": "0xe3456f4Ee65E745A44EC3bcB83D0f2529D1b84Eb",
+    "contractAddress": "0x1e38eff998df9d3669e32f4ff400031385bf6362",
     "makerAsset": {
         "name": "WBNB",
         "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
